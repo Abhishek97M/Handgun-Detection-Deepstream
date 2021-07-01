@@ -1,6 +1,6 @@
 # Handgun-Detection-Deepstream
 
->Based on current situation around the world, there is major need of automated visual surveillance for security to detect handgun .Every now and then ,there is a gunpoint store robbey , any hostage situation or a shootout .Applying this application in our surveillance system, we can attempt to save human life and accomplish reduction in the crime rate .
+>Based on current situation around the world, there is major need of automated visual surveillance for security to detect handgun .Every now and then ,there is a gunpoint store robbery , any hostage situation or a shootout .Applying this application in our surveillance system, we can attempt to save human life and accomplish reduction in the crime rate .
 
 ![Handgun Detection Result](resources/result.png)
 
