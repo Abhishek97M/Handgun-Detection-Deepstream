@@ -19,7 +19,7 @@ Handgun detection Application consists of an Intelligent Video Analytics Pipelin
 <img src="resources/haisdjaw098291j2e;l1,od18ed091d.jpg" width="300" height="300">
 <img src="resources/nano_img_picamera.png" width="300" height="300">
 
-This project is a proof-of-concept, trying to monitor the safety of people in any possible armed robbery situations using Computer Vision and and is accelerated using NVIDIA Deepstream and can be done with a surveillance camera or raspberry pi v2 (CSI) and an onboard Jetson platform.
+This project is a proof-of-concept, trying to monitor the safety of people in any possible armed robbery , terror situations using Computer Vision and and is accelerated using NVIDIA Deepstream and can be done with a surveillance camera or raspberry pi v2 (CSI) and an onboard Jetson platform.
 
 
 ###### Camera (CSI) was tested as an alternative to lower quality CCTV cameras as those can omit False Positives and False Negatives due to the low image resolution.   
