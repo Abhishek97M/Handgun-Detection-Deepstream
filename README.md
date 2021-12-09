@@ -76,11 +76,8 @@ git@github.com:Abhishek97M/Handgun-Detection-Deepstream.git
 ```
 
 ## 2. Trained Weights
-## YoloV3 Weights: [here](https://drive.google.com/file/d/1SyMOmIC11Lp92cpWbtKSiv6EviR3MEGQ/view?usp=sharing)
+## YoloV3 Weights: [here](https://drive.google.com/file/d/1aFEyuW_sSD25Yz2s1Tmsb18KXRuQxWAx/view?usp=sharing)
 Download the Yolov3 weights file from the above link and move to this folder
-       
-## YoloV3-tiny Weights: [here](https://drive.google.com/file/d/1N2_40qUSJ3Bj9XywJWaXH07aGKU2olEU/view?usp=sharing)
-Download the Yolov3-tiny weights file from the above link and move to this folder
 
 ## 3. Compile
 
